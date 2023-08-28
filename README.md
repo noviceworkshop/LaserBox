@@ -1,7 +1,5 @@
-# LaserBox
+# LaserBox for Fusion 360
  
-# BoxMaker for Fusion 360
-
 This script helps you create a box with finger joints. 
 It was inspired by [Makercase](https://www.makercase.com/#/) that generates templates for various boxes.
 
